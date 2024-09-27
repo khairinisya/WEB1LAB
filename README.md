@@ -14,6 +14,5 @@
 - Gambar 1
 ![Img 4]![Screenshot 5](https://github.com/user-attachments/assets/a22feeb8-f2ed-40a9-9b28-a10eff3308ea)
 - Gambar result 1
-![Img 5](<img width="959" alt="Screenshot 4" src="https://github.com/user-attachments/assets/e2b45a53-6071-40fc-b808-47cb1a386057">
-)
+![Img 5]!["Screenshot 4"] src="https://github.com/user-attachments/assets/e2b45a53-6071-40fc-b808-47cb1a386057).
 ## 4. Format teks pada paragraf tersebut
